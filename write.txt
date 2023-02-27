@@ -1,0 +1,2 @@
+Income = 123.45	Express = 678.90
+Week = 7	Year = 2023
