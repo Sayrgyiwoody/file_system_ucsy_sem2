@@ -10,6 +10,7 @@ int main() {
     for (int i=0;i<4;i++) {
     fscanf(inptr,"%d",&mark);
     totalMark += mark;
+    cout << "mark = " << mark << endl;
     }
     avgMark = (float) totalMark/4;
     cout << "Average mark = " << avgMark;
