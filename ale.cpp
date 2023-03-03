@@ -12,5 +12,6 @@ int main() {
             fprintf(alePtr,"%d * %d = %d\n",i,j,i*j);
         }
     }
+    fclose(alePtr);
     return 0;
 }
