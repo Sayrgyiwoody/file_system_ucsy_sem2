@@ -14,5 +14,6 @@ int main() {
     }
     avgMark = (float) totalMark/4;
     cout << "Average mark = " << avgMark;
+    fclose(inptr);
     return 0;
 }
